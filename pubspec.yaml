@@ -1,6 +1,6 @@
 name: helpful_extensions
 description: A Dart Package which provides Extensions for different Objects
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/Jules-Media/Helpful_Extensions
 
 environment:
