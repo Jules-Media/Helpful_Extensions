@@ -1,3 +1,4 @@
 library helpful_extensions;
 
-export 'src/color/color_mapping.dart';
+export 'src/color_mapping.dart';
+export 'src/weekday.dart';
