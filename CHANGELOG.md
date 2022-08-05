@@ -1,3 +1,8 @@
+## 0.2.1
+
+* Export List Extension
+
+
 ## 0.2.0
 
 * Add List Check Extension
