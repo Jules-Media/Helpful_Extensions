@@ -1,3 +1,8 @@
+## 0.2.2
+
+* Add Gradient Color Getter to Color Mapping Extension
+
+
 ## 0.2.1
 
 * Export List Extension
