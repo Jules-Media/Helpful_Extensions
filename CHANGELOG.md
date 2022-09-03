@@ -1,3 +1,8 @@
+## 0.3.0
+
+* add Secondary Color getter to Color
+
+
 ## 0.2.3
 
 * Add Example

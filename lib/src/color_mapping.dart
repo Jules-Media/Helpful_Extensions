@@ -1,6 +1,6 @@
 library helpful_extensions;
 
-import 'package:flutter/material.dart' show Color, HSLColor;
+import 'package:flutter/material.dart' show Color, Colors, HSLColor;
 
 /// Extension on Color to determine if they
 /// are dark or light
@@ -26,5 +26,14 @@ extension ColorMapping on Color {
       changed = c.withHue(c.hue - 100);
     }
     return changed.toColor();
+  }
+
+  /// Returns the corresponding Text Color for this Color.
+  Color get secondaryColor {
+    if (isDark) {
+      return Colors.white;
+    } else {
+      return Colors.black;
+    }
   }
 }
