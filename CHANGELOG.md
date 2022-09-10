@@ -1,3 +1,18 @@
+## 0.3.3
+
+* Bugfix
+
+
+## 0.3.2
+
+* Add Method to get ColorSortingOptions
+
+
+## 0.3.1
+
+* Add Color Sorting
+
+
 ## 0.3.0
 
 * add Secondary Color getter to Color
