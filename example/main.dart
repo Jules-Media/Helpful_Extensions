@@ -43,7 +43,7 @@ class ExampleApp extends StatelessWidget {
               isThreeLine: false,
               leading: const Icon(Icons.calendar_month),
               title: Text(
-                DateTime(2022, 02, 22).weekdayAsString,
+                DateTime(2022, 02, 22).weekdayAsEnum.completeName,
               ),
             ),
           ],
