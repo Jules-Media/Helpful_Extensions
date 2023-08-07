@@ -1,3 +1,12 @@
+## 0.5.1
+
+* Bugfix
+
+## 0.5.0
+
+* Implement Extensions for better use of months on DateTime
+* Update performance
+
 ## 0.4.0
 
 * Implement Weekday as Enum and multiple functionality on that
